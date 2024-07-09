@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04e0397b-f3d9-4a94-abb1-995a6d424c40" name="Changes" comment="Data Analysis">
+    <list default="true" id="04e0397b-f3d9-4a94-abb1-995a6d424c40" name="Changes" comment="t">
+      <changelist_data name="mrinal98-py" email="mrinal98raj@gmail.com" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -23,6 +24,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="mrinal98-py &lt;mrinal98raj@gmail.com&gt;" />
         <option value="Data_A &lt;mrinal98raj@gmail.com&gt;" />
       </list>
     </option>
@@ -87,11 +89,20 @@
       <option name="project" value="LOCAL" />
       <updated>1720547913008</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="t">
+      <option name="closed" value="true" />
+      <created>1720548327954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720548327954</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Data Analysis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data Analysis" />
+    <MESSAGE value="t" />
+    <option name="LAST_COMMIT_MESSAGE" value="t" />
   </component>
 </project>
